@@ -6,7 +6,7 @@ Follow the below steps to complete the project:
 2)Data Collection & Analysis  
 a) loading the data from csv file to a Pandas DataFrame  
 b) checking for missing values in each column  
-c) grouping the data bas3ed on the target variable   
+c) grouping the data based on the target variable   
 3)Data Pre-Processing  
 4)Separating the features & Target  
 5)Splitting the data to training data & Test data  
