@@ -11,7 +11,7 @@ c) grouping the data based on the target variable
 4)Separating the features & Target  
 5)Splitting the data to training data & Test data  
 6)Data Standardization  
-7)Model Training(SVM)
+7)Model Training(SVM)  
 8)Model Evaluation  
 9)Building a Predictive System  
 10)After completion of the project, we get an accuracy of 81,7%.  
