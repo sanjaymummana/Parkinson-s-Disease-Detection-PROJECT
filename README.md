@@ -4,9 +4,9 @@ The dataset used for this project is from Kaggle. Dataset has a shape of (195*24
 Follow the below steps to complete the project:  
 1)Importing the Dependencies  
 2)Data Collection & Analysis  
-# loading the data from csv file to a Pandas DataFrame  
-# checking for missing values in each column  
-# grouping the data bas3ed on the target variable   
+a) loading the data from csv file to a Pandas DataFrame  
+b) checking for missing values in each column  
+c) grouping the data bas3ed on the target variable   
 3)Data Pre-Processing  
 4)Separating the features & Target  
 5)Splitting the data to training data & Test data  
