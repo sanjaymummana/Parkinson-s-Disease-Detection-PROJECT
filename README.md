@@ -14,6 +14,6 @@ c) grouping the data based on the target variable
 7)Model Training(SVM)  
 8)Model Evaluation  
 9)Building a Predictive System  
-10)After completion of the project, we get an accuracy of 81,7%.  
+10)After completion of the project, we get an accuracy of 81.7%.  
 Software requirements: Google Colab.  
 Programming Languages and modules: Python3, Numpy-module, pandas, sklearn.
